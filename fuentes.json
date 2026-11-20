@@ -1,0 +1,38 @@
+{
+  "_ayuda": "Lista de apps de YukiStore. 'repo' es el repo PUBLICO donde se publican los APK (nunca el del codigo). 'tipo': version_json = la release incluye un version.json (como Numa Wallet); release_apk = solo el APK, la version se lee del propio APK.",
+  "apps": [
+    {
+      "id": "yukistore",
+      "nombre": "YukiStore",
+      "descripcion": "La tienda de apps de Yuki: instala y actualiza todas sus apps desde un solo sitio.",
+      "icono": "iconos/yukistore.png",
+      "repo": "Yuk1Katsume/yukistore-catalog",
+      "tipo": "release_apk",
+      "oculta": true
+    },
+    {
+      "id": "numa-wallet",
+      "nombre": "Numa Wallet",
+      "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
+      "icono": "iconos/numa-wallet.png",
+      "repo": "Yuk1Katsume/numa-wallet-releases",
+      "tipo": "version_json"
+    },
+    {
+      "id": "crystalapp",
+      "nombre": "CrystalApp",
+      "descripcion": "CrystalApp de Crimson Prism.",
+      "icono": "iconos/crystalapp.png",
+      "repo": "Yuk1Katsume/crystalapp",
+      "tipo": "release_apk"
+    },
+    {
+      "id": "zenith",
+      "nombre": "Zenith",
+      "descripcion": "Zenith.",
+      "icono": "iconos/zenith.png",
+      "repo": "Yuk1Katsume/zenith-releases",
+      "tipo": "release_apk"
+    }
+  ]
+}

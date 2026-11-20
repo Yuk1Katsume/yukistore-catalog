@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "generado": "2026-11-20T23:02:01+00:00",
+  "apps": [
+    {
+      "id": "numa-wallet",
+      "nombre": "Numa Wallet",
+      "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
+      "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/numa-wallet.png",
+      "paquete": "com.numawallet.app",
+      "versionCode": 8,
+      "versionName": "1.2.5",
+      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.2.5/numa-wallet-1.2.5-8.apk",
+      "sha256": "2c807b2c11f0da1d08de5ba11840a0624dbf473819aebe3bd01d158fc979c78d",
+      "tamano": 97072662,
+      "notas": "Los movimientos guardan ahora la hora: elígela al añadir o editar, aparece en el calendario y los movimientos de cada día salen en orden cronológico.",
+      "publicado": "2026-11-20T18:02:35+01:00",
+      "oculta": false
+    },
+    {
+      "id": "crystalapp",
+      "nombre": "CrystalApp",
+      "descripcion": "CrystalApp de Crimson Prism.",
+      "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/crystalapp.png",
+      "paquete": "com.crimsonprism.crystalapp",
+      "versionCode": 100073,
+      "versionName": "1.7.7",
+      "url": "https://github.com/Yuk1Katsume/crystalapp/releases/download/v1.7.7/crystalapp-v1.7.7.apk",
+      "sha256": "df01770bcff57b2f5f1bec95cac6f80a5f440561837bb66d6cd9af9515cee922",
+      "tamano": 120568581,
+      "notas": "Release v1.7.7\n\nbuild: 100073\n\n- Authenticated AES-256-CBC payloads with HMAC-SHA256.\n- XOR fallback removed.\n- Legacy payloads are marked unavailable.\n- Fixed missing SQLite table deletion.\n- OTA updater fallback to GitHub Releases.\n- Updated dependencies and tests.",
+      "publicado": "2026-08-23T02:03:06Z",
+      "oculta": false
+    }
+  ]
+}
