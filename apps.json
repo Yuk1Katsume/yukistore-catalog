@@ -1,7 +1,22 @@
 {
   "version": 1,
-  "generado": "2026-11-20T23:02:01+00:00",
+  "generado": "2026-11-20T23:20:17+00:00",
   "apps": [
+    {
+      "id": "yukistore",
+      "nombre": "YukiStore",
+      "descripcion": "La tienda de apps de Yuki: instala y actualiza todas sus apps desde un solo sitio.",
+      "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/yukistore.png",
+      "paquete": "com.yuk1katsume.yukistore",
+      "versionCode": 1,
+      "versionName": "0.1.0",
+      "url": "https://github.com/Yuk1Katsume/yukistore-catalog/releases/download/v0.1.0/yukistore-0.1.0-1.apk",
+      "sha256": "ba3489495319505a189a9823f6c4e7b5171411a506d47d28c71e63c925be0e96",
+      "tamano": 49329758,
+      "notas": "YukiStore 0.1.0",
+      "publicado": "2026-11-20T23:20:07Z",
+      "oculta": true
+    },
     {
       "id": "numa-wallet",
       "nombre": "Numa Wallet",
