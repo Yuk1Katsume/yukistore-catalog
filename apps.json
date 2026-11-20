@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-20T23:20:17+00:00",
+  "generado": "2026-11-20T23:22:05+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -9,12 +9,12 @@
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/yukistore.png",
       "paquete": "com.yuk1katsume.yukistore",
       "versionCode": 1,
-      "versionName": "0.1.0",
-      "url": "https://github.com/Yuk1Katsume/yukistore-catalog/releases/download/v0.1.0/yukistore-0.1.0-1.apk",
-      "sha256": "ba3489495319505a189a9823f6c4e7b5171411a506d47d28c71e63c925be0e96",
-      "tamano": 49329758,
-      "notas": "YukiStore 0.1.0",
-      "publicado": "2026-11-20T23:20:07Z",
+      "versionName": "1.0.0",
+      "url": "https://github.com/Yuk1Katsume/yukistore-catalog/releases/download/v1.0.0/yukistore-1.0.0-1.apk",
+      "sha256": "2b9f00061f12e809e9bcc25a954a1c6a82b0e113728c7e7a3b4b1faa9e85ca00",
+      "tamano": 49329754,
+      "notas": "YukiStore 1.0.0",
+      "publicado": "2026-11-20T23:21:55Z",
       "oculta": true
     },
     {
