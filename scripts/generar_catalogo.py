@@ -169,6 +169,8 @@ def procesar_app(fuente, previa, base_url, tmp):
         "notas": notas,
         "publicado": publicado,
         "oculta": bool(fuente.get("oculta", False)),
+        "capturas": [f"{base_url}/{c}" for c in fuente.get("capturas", [])],
+        "color": fuente.get("color"),
     }
 
 

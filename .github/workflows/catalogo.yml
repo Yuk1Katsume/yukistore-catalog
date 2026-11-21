@@ -8,7 +8,7 @@ on:
     types: [nueva-version]
   push:
     branches: [main]
-    paths: [fuentes.json, scripts/**, iconos/**]
+    paths: [fuentes.json, scripts/**, iconos/**, capturas/**]
 
 permissions:
   contents: write

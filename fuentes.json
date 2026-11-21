@@ -1,8 +1,9 @@
 {
-  "_ayuda": "Lista de apps de YukiStore. 'repo' es el repo PUBLICO donde se publican los APK (nunca el del codigo). 'tipo': version_json = la release incluye un version.json (como Numa Wallet); release_apk = solo el APK, la version se lee del propio APK.",
+  "_ayuda": "Lista de apps de YukiStore. 'repo' es el repo PUBLICO donde se publican los APK (nunca el del codigo). 'tipo': version_json = la release incluye un version.json (como Numa Wallet); release_apk = solo el APK, la version se lee del propio APK. 'color' (opcional): color de la app en hex, para las tarjetas. 'capturas' (opcional): rutas de imagenes en capturas/<id>/, en el orden en que se muestran.",
   "apps": [
     {
       "id": "yukistore",
+      "color": "#7C4DFF",
       "nombre": "YukiStore",
       "descripcion": "La tienda de apps de Yuki: instala y actualiza todas sus apps desde un solo sitio.",
       "icono": "iconos/yukistore.png",
@@ -12,14 +13,23 @@
     },
     {
       "id": "numa-wallet",
+      "color": "#F45C9B",
       "nombre": "Numa Wallet",
       "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
       "icono": "iconos/numa-wallet.png",
       "repo": "Yuk1Katsume/numa-wallet-releases",
-      "tipo": "version_json"
+      "tipo": "version_json",
+      "capturas": [
+        "capturas/numa-wallet/1.webp",
+        "capturas/numa-wallet/2.webp",
+        "capturas/numa-wallet/3.webp",
+        "capturas/numa-wallet/4.webp",
+        "capturas/numa-wallet/5.webp"
+      ]
     },
     {
       "id": "crystalapp",
+      "color": "#E0314B",
       "nombre": "CrystalApp",
       "descripcion": "CrystalApp de Crimson Prism.",
       "icono": "iconos/crystalapp.png",
@@ -28,8 +38,9 @@
     },
     {
       "id": "zenith",
+      "color": "#D6457E",
       "nombre": "Zenith",
-      "descripcion": "Zenith.",
+      "descripcion": "Anime, series, películas y juegos en un solo sitio: rankings en tiempo real, fichas y tu lista personal.",
       "icono": "iconos/zenith.png",
       "repo": "Yuk1Katsume/zenith-releases",
       "tipo": "release_apk"
