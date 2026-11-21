@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-20T23:22:05+00:00",
+  "generado": "2026-11-21T09:52:03+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -45,6 +45,21 @@
       "tamano": 120568581,
       "notas": "Release v1.7.7\n\nbuild: 100073\n\n- Authenticated AES-256-CBC payloads with HMAC-SHA256.\n- XOR fallback removed.\n- Legacy payloads are marked unavailable.\n- Fixed missing SQLite table deletion.\n- OTA updater fallback to GitHub Releases.\n- Updated dependencies and tests.",
       "publicado": "2026-08-23T02:03:06Z",
+      "oculta": false
+    },
+    {
+      "id": "zenith",
+      "nombre": "Zenith",
+      "descripcion": "Zenith.",
+      "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/zenith.png",
+      "paquete": "com.yuk1katsume.zenith",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "url": "https://github.com/Yuk1Katsume/zenith-releases/releases/download/v1.0.0/zenith-1.0.0-1.apk",
+      "sha256": "ebb27189be1ff21a71e4752c154e2d4b0be6d5a9c06523dca8224b1722d69935",
+      "tamano": 17020621,
+      "notas": "Primera versión de Zenith.\n\n- Rankings de anime, series, películas y juegos en tiempo real (AniList, TMDB y RAWG).\n- Fichas con detalles, tu lista personal y perfil con color de acento.",
+      "publicado": "2026-11-21T09:51:46Z",
       "oculta": false
     }
   ]
