@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-21T09:52:03+00:00",
+  "generado": "2026-11-21T09:56:30+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -15,7 +15,9 @@
       "tamano": 49329754,
       "notas": "YukiStore 1.0.0",
       "publicado": "2026-11-20T23:21:55Z",
-      "oculta": true
+      "oculta": true,
+      "capturas": [],
+      "color": "#7C4DFF"
     },
     {
       "id": "numa-wallet",
@@ -30,7 +32,15 @@
       "tamano": 97072662,
       "notas": "Los movimientos guardan ahora la hora: elígela al añadir o editar, aparece en el calendario y los movimientos de cada día salen en orden cronológico.",
       "publicado": "2026-11-20T18:02:35+01:00",
-      "oculta": false
+      "oculta": false,
+      "capturas": [
+        "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/1.webp",
+        "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/2.webp",
+        "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/3.webp",
+        "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/4.webp",
+        "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/5.webp"
+      ],
+      "color": "#F45C9B"
     },
     {
       "id": "crystalapp",
@@ -45,12 +55,14 @@
       "tamano": 120568581,
       "notas": "Release v1.7.7\n\nbuild: 100073\n\n- Authenticated AES-256-CBC payloads with HMAC-SHA256.\n- XOR fallback removed.\n- Legacy payloads are marked unavailable.\n- Fixed missing SQLite table deletion.\n- OTA updater fallback to GitHub Releases.\n- Updated dependencies and tests.",
       "publicado": "2026-08-23T02:03:06Z",
-      "oculta": false
+      "oculta": false,
+      "capturas": [],
+      "color": "#E0314B"
     },
     {
       "id": "zenith",
       "nombre": "Zenith",
-      "descripcion": "Zenith.",
+      "descripcion": "Anime, series, películas y juegos en un solo sitio: rankings en tiempo real, fichas y tu lista personal.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/zenith.png",
       "paquete": "com.yuk1katsume.zenith",
       "versionCode": 1,
@@ -60,7 +72,9 @@
       "tamano": 17020621,
       "notas": "Primera versión de Zenith.\n\n- Rankings de anime, series, películas y juegos en tiempo real (AniList, TMDB y RAWG).\n- Fichas con detalles, tu lista personal y perfil con color de acento.",
       "publicado": "2026-11-21T09:51:46Z",
-      "oculta": false
+      "oculta": false,
+      "capturas": [],
+      "color": "#D6457E"
     }
   ]
 }
