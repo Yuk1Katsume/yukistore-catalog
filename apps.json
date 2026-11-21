@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-21T09:58:59+00:00",
+  "generado": "2026-11-21T14:59:02+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -65,13 +65,13 @@
       "descripcion": "Anime, series, películas y juegos en un solo sitio: rankings en tiempo real, fichas y tu lista personal.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/zenith.png",
       "paquete": "com.yuk1katsume.zenith",
-      "versionCode": 1,
-      "versionName": "1.0.0",
-      "url": "https://github.com/Yuk1Katsume/zenith-releases/releases/download/v1.0.0/zenith-1.0.0-1.apk",
-      "sha256": "ebb27189be1ff21a71e4752c154e2d4b0be6d5a9c06523dca8224b1722d69935",
-      "tamano": 17020621,
-      "notas": "Primera versión de Zenith.\n\n- Rankings de anime, series, películas y juegos en tiempo real (AniList, TMDB y RAWG).\n- Fichas con detalles, tu lista personal y perfil con color de acento.",
-      "publicado": "2026-11-21T09:51:46Z",
+      "versionCode": 2,
+      "versionName": "1.1.0",
+      "url": "https://github.com/Yuk1Katsume/zenith-releases/releases/download/v1.1.0/zenith-1.1.0-2.apk",
+      "sha256": "f4c01449c5f82110afa064410ddc6d22780e4b27d5490ea32b9573c05f919650",
+      "tamano": 3830733,
+      "notas": "Mejoras de seguridad, sincronización y velocidad.\n\n- Las fichas de anime cargan mucho más rápido (de ~25 s a unos 4 s).\n- Tu lista se guarda en el móvil y funciona sin conexión.\n- Nueva sincronización con la nube: solo sube y baja lo que cambia, también los borrados.\n- La sesión de MyAnimeList se renueva sola antes de caducar (hay que volver a vincular MAL una vez).\n- Los tokens de MAL y AniList se guardan cifrados en el móvil y ya no se envían a la nube.\n- Corregido: abrir un anime que no estaba en tu lista podía borrar tu lista local.\n- Corregido: staff equivocado en series con varias versiones (p. ej. Fruits Basket 2001).\n- Corregido: búsquedas que se quedaban vacías o mostraban resultados desordenados.\n- Corregido: búsquedas con comillas, & o # que no devolvían resultados.\n\nImportante: al actualizar hay que volver a iniciar sesión en Zenith Cloud, porque ahora usa un servidor nuevo.",
+      "publicado": "2026-11-21T14:58:42Z",
       "oculta": false,
       "capturas": [],
       "color": "#D6457E"
