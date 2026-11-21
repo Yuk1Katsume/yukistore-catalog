@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-21T09:56:30+00:00",
+  "generado": "2026-11-21T09:58:59+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -8,13 +8,13 @@
       "descripcion": "La tienda de apps de Yuki: instala y actualiza todas sus apps desde un solo sitio.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/yukistore.png",
       "paquete": "com.yuk1katsume.yukistore",
-      "versionCode": 1,
-      "versionName": "1.0.0",
-      "url": "https://github.com/Yuk1Katsume/yukistore-catalog/releases/download/v1.0.0/yukistore-1.0.0-1.apk",
-      "sha256": "2b9f00061f12e809e9bcc25a954a1c6a82b0e113728c7e7a3b4b1faa9e85ca00",
-      "tamano": 49329754,
-      "notas": "YukiStore 1.0.0",
-      "publicado": "2026-11-20T23:21:55Z",
+      "versionCode": 2,
+      "versionName": "1.1.0",
+      "url": "https://github.com/Yuk1Katsume/yukistore-catalog/releases/download/v1.1.0/yukistore-1.1.0-2.apk",
+      "sha256": "0c8a0f7ffb433ab110894c621044702343f449039717fd593aed1756a8621403",
+      "tamano": 49485388,
+      "notas": "Novedades de YukiStore 1.1.0\n\n- Pantalla de inicio renovada: apps destacadas con su color y tarjetas más claras.\n- Avisos de actualizaciones aunque no abras la tienda (cada 6 horas).\n- Capturas de pantalla en la ficha de cada app, con zoom a pantalla completa.",
+      "publicado": "2026-11-21T09:58:49Z",
       "oculta": true,
       "capturas": [],
       "color": "#7C4DFF"
