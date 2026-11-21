@@ -43,7 +43,14 @@
       "descripcion": "Anime, series, películas y juegos en un solo sitio: rankings en tiempo real, fichas y tu lista personal.",
       "icono": "iconos/zenith.png",
       "repo": "Yuk1Katsume/zenith-releases",
-      "tipo": "release_apk"
+      "tipo": "release_apk",
+      "capturas": [
+        "capturas/zenith/1.webp",
+        "capturas/zenith/2.webp",
+        "capturas/zenith/3.webp",
+        "capturas/zenith/4.webp",
+        "capturas/zenith/5.webp"
+      ]
     }
   ]
 }
