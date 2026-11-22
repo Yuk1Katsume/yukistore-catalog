@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-22T21:51:33+00:00",
+  "generado": "2026-11-22T22:18:35+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -25,13 +25,13 @@
       "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/numa-wallet.png",
       "paquete": "com.numawallet.app",
-      "versionCode": 11,
-      "versionName": "1.2.8",
-      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.2.8/numa-wallet-1.2.8-11.apk",
-      "sha256": "6fbe18bd7c3f66348f347df5fb43ff08b475540b4753e14f3959892601ca694c",
-      "tamano": 97433410,
+      "versionCode": 12,
+      "versionName": "1.2.9",
+      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.2.9/numa-wallet-1.2.9-12.apk",
+      "sha256": "d3f30a8546c78f0541f67894dee8bbc1a86cd2b66d925679b0297778acf4b63b",
+      "tamano": 97449790,
       "notas": "Mejoras internas y arreglos.",
-      "publicado": "2026-11-22T22:48:57+01:00",
+      "publicado": "2026-11-22T23:16:46+01:00",
       "oculta": false,
       "capturas": [
         "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/1.webp",
