@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-21T15:23:16+00:00",
+  "generado": "2026-11-22T19:59:44+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -25,13 +25,13 @@
       "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/numa-wallet.png",
       "paquete": "com.numawallet.app",
-      "versionCode": 8,
-      "versionName": "1.2.5",
-      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.2.5/numa-wallet-1.2.5-8.apk",
-      "sha256": "2c807b2c11f0da1d08de5ba11840a0624dbf473819aebe3bd01d158fc979c78d",
-      "tamano": 97072662,
-      "notas": "Los movimientos guardan ahora la hora: elígela al añadir o editar, aparece en el calendario y los movimientos de cada día salen en orden cronológico.",
-      "publicado": "2026-11-20T18:02:35+01:00",
+      "versionCode": 9,
+      "versionName": "1.2.6",
+      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.2.6/numa-wallet-1.2.6-9.apk",
+      "sha256": "315fb495c274f96db591a0e10358e1c9b4713043d9de317b5144651c9aa77904",
+      "tamano": 97187674,
+      "notas": "Nuevo lector de pagos (en pruebas) en Ajustes: si le das permiso, muestra los avisos de pago de OKX y Google. Los guarda solo en tu móvil y todavía no crea movimientos. Es opcional y viene desactivado.",
+      "publicado": "2026-11-22T20:58:31+01:00",
       "oculta": false,
       "capturas": [
         "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/1.webp",
