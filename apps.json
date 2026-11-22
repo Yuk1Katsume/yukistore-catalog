@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-22T19:59:44+00:00",
+  "generado": "2026-11-22T21:13:34+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -25,13 +25,13 @@
       "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/numa-wallet.png",
       "paquete": "com.numawallet.app",
-      "versionCode": 9,
-      "versionName": "1.2.6",
-      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.2.6/numa-wallet-1.2.6-9.apk",
-      "sha256": "315fb495c274f96db591a0e10358e1c9b4713043d9de317b5144651c9aa77904",
-      "tamano": 97187674,
-      "notas": "Nuevo lector de pagos (en pruebas) en Ajustes: si le das permiso, muestra los avisos de pago de OKX y Google. Los guarda solo en tu móvil y todavía no crea movimientos. Es opcional y viene desactivado.",
-      "publicado": "2026-11-22T20:58:31+01:00",
+      "versionCode": 10,
+      "versionName": "1.2.7",
+      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.2.7/numa-wallet-1.2.7-10.apk",
+      "sha256": "6ade2f66ab2a228c079d4608ca82d8f26ceb09d624f375f7fefe637e17786747",
+      "tamano": 97302334,
+      "notas": "El lector de pagos que estaba en pruebas deja de estar disponible de forma general: pasa a ser una función privada. El resto de la app funciona igual.",
+      "publicado": "2026-11-22T22:11:36+01:00",
       "oculta": false,
       "capturas": [
         "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/1.webp",
