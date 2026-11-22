@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-22T21:13:34+00:00",
+  "generado": "2026-11-22T21:51:33+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -25,13 +25,13 @@
       "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/numa-wallet.png",
       "paquete": "com.numawallet.app",
-      "versionCode": 10,
-      "versionName": "1.2.7",
-      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.2.7/numa-wallet-1.2.7-10.apk",
-      "sha256": "6ade2f66ab2a228c079d4608ca82d8f26ceb09d624f375f7fefe637e17786747",
-      "tamano": 97302334,
-      "notas": "El lector de pagos que estaba en pruebas deja de estar disponible de forma general: pasa a ser una función privada. El resto de la app funciona igual.",
-      "publicado": "2026-11-22T22:11:36+01:00",
+      "versionCode": 11,
+      "versionName": "1.2.8",
+      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.2.8/numa-wallet-1.2.8-11.apk",
+      "sha256": "6fbe18bd7c3f66348f347df5fb43ff08b475540b4753e14f3959892601ca694c",
+      "tamano": 97433410,
+      "notas": "Mejoras internas y arreglos.",
+      "publicado": "2026-11-22T22:48:57+01:00",
       "oculta": false,
       "capturas": [
         "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/1.webp",
