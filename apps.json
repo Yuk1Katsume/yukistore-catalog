@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-23T12:44:58+00:00",
+  "generado": "2026-11-23T13:29:45+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -25,13 +25,13 @@
       "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/numa-wallet.png",
       "paquete": "com.numawallet.app",
-      "versionCode": 15,
-      "versionName": "1.3.2",
-      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.3.2/numa-wallet-1.3.2-15.apk",
-      "sha256": "b2bc57ca454bfdfb7b5e29786dc83235608daf4fda197b72f9867dda2c182896",
+      "versionCode": 16,
+      "versionName": "1.3.3",
+      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.3.3/numa-wallet-1.3.3-16.apk",
+      "sha256": "0b024483d00305f6b166bfc3c1ed73b1a60222c65330d50d57c4ed1458f8fb31",
       "tamano": 98143418,
-      "notas": "Novedades de la 1.3.2\n\n- Revolut: lo que mueves a la cuenta remunerada (Fondos Monetarios Flexibles) ya no cuenta como gasto ni como ingreso. Sigue siendo tu dinero, así que se suma al saldo de la cuenta Revolut.\n- En la cuenta de Revolut, «Remunerada» con el botón Ajustar: escribe lo que tienes ahora en Ahorros (con los intereses) y desde ahí Numa suma y resta sola los traspasos.\n- Los traspasos a la remunerada que ya se habían apuntado como gasto o ingreso se quitan solos.\n- La nómina (Flexwerk, o «nómina», «salario»… en el concepto) entra con la categoría Nómina.",
-      "publicado": "2026-11-23T13:44:01+01:00",
+      "notas": "Novedades de la 1.3.3\n\n- Cuentas compartidas a tu manera: en la cuenta que te comparten, toca el lápiz → Personalizar y cámbiale el nombre, el icono y sus colores, el tipo, la categoría y el color de la gráfica. Solo lo ves tú: quien la comparte la sigue viendo como la tiene.\n- «Verla como …» vuelve al aspecto de la dueña.",
+      "publicado": "2026-11-23T14:29:07+01:00",
       "oculta": false,
       "capturas": [
         "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/1.webp",
