@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-23T11:44:24+00:00",
+  "generado": "2026-11-23T12:32:57+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -25,13 +25,13 @@
       "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/numa-wallet.png",
       "paquete": "com.numawallet.app",
-      "versionCode": 13,
-      "versionName": "1.3.0",
-      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.3.0/numa-wallet-1.3.0-13.apk",
-      "sha256": "56eebaeeb426ba830874b0eab88de265daf9da0e87c9ee7bf23a880a2ba0f857",
+      "versionCode": 14,
+      "versionName": "1.3.1",
+      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.3.1/numa-wallet-1.3.1-14.apk",
+      "sha256": "aab6aef62ca81666c47937f7527b009e37cce47c05d8574433dc08109d4c668d",
       "tamano": 98143418,
-      "notas": "Cuentas compartidas\n• Comparte una cuenta con otra persona de Numa escribiendo su correo, con permiso para solo ver o para apuntar movimientos.\n• Lo que apunta una lo ve la otra al momento. También puedes hacer transferencias entre tus cuentas y la compartida.\n• Cada persona decide si la cuenta cuenta en sus totales: saldo, analítica y presupuestos.\n• Desde la cuenta ves con quién la compartes, cambias su permiso o dejas de compartirla. Quien la recibe puede salir cuando quiera.\n\nNotificaciones\n• Nueva campanita con las invitaciones (aceptar o rechazar), los cambios en cuentas compartidas y las alertas de presupuesto.\n• Avisos al momento en el móvil, aunque Numa esté cerrada. Se pueden desactivar en Ajustes → Avisos.\n\nRevolut\n• Conecta tu cuenta de Revolut para que el saldo y los movimientos se actualicen solos, cuatro veces al día. Es solo lectura: Numa nunca puede mover dinero.\n• Para usarlo, pide acceso desde una cuenta que se llame «Revolut». La administradora lo aprueba en Ajustes → Solicitudes y te llega el aviso.\n\nSaldos sincronizados más exactos\n• Las cuentas que se actualizan solas muestran el saldo exacto, sin variar con el tipo de cambio de movimientos antiguos.\n• Lo que apuntes después de la última lectura se descuenta al momento.\n\nSolo para la administradora\n• Conexión con OKX (exchange y Pay) y lector de pagos con tarjeta.\n\nOtros\n• Si un movimiento no se puede cambiar (cuenta compartida de solo lectura, repetición de otra persona…), Numa te dice por qué.\n• Mejoras de seguridad y estabilidad.",
-      "publicado": "2026-11-23T12:32:21+01:00",
+      "notas": "Arreglos\n• Al pasar de Calendario a Saldo la pantalla ya no se queda gris.\n\nRevolut al momento\n• Las cuentas vinculadas a Revolut se actualizan al abrir Numa, al volver a ella y al abrir la cuenta, sin esperar a la lectura automática de cada 6 horas.\n• Estas lecturas no gastan las 4 lecturas diarias que permite el banco sin ti delante.",
+      "publicado": "2026-11-23T13:31:57+01:00",
       "oculta": false,
       "capturas": [
         "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/1.webp",
