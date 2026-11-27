@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generado": "2026-11-25T13:14:49+00:00",
+  "generado": "2026-11-27T10:13:09+00:00",
   "apps": [
     {
       "id": "yukistore",
@@ -25,13 +25,13 @@
       "descripcion": "Finanzas personales: cuentas, movimientos, presupuestos, metas y analítica.",
       "icono": "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/iconos/numa-wallet.png",
       "paquete": "com.numawallet.app",
-      "versionCode": 20,
-      "versionName": "1.3.7",
-      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.3.7/numa-wallet-1.3.7-20.apk",
-      "sha256": "8639acca9ed9983c7639e5a8fdc1055d07e21f39385fa631bd85cde7f8fb0548",
-      "tamano": 98471206,
-      "notas": "Trade Republic se conecta como Revolut: movimientos solos, compras de valores e intereses en Inversiones. Botones de los bancos con su logo y color.",
-      "publicado": "2026-11-25T14:14:11+01:00",
+      "versionCode": 21,
+      "versionName": "1.3.8",
+      "url": "https://github.com/Yuk1Katsume/numa-wallet-releases/releases/download/v1.3.8/numa-wallet-1.3.8-21.apk",
+      "sha256": "84ef285433a7101fcf536f5113729ee3b05bc6fcfb0443de183332a651a9a011",
+      "tamano": 98553130,
+      "notas": "Novedades desde la 1.3.0\n\n1.3.8\n• Texto legible sobre colores claros: en gráficos e iconos, el texto se pone oscuro cuando el color de fondo es claro.\n• Metas ligadas a una cuenta: un objetivo de ahorro puede tomar como acumulado el saldo de una cuenta (por ejemplo, Trade Republic para el viaje a Japón).\n\n1.3.7\n• Trade Republic se conecta como Revolut: los movimientos entran solos, y las compras de valores y los intereses van a Inversiones.\n• Los botones de Revolut y Trade Republic llevan su logo y su color.\n\n1.3.6\n• Reglas por comercio: elige que un comercio vaya siempre a una categoría, también en los movimientos pendientes de Revolut.\n• Lo que cambies en un pendiente de Revolut se mantiene cuando pasa a definitivo.\n\n1.3.5\n• Los gastos pendientes de Revolut aparecen al momento y se sustituyen por el definitivo.\n• El detalle de un pendiente dice si espera a OKX o a Revolut.\n\n1.3.4\n• Las compras con la tarjeta de OKX se apuntan al momento y el saldo de OKX coincide con el disponible.\n\n1.3.3\n• Personaliza las cuentas que te comparten (nombre, icono, colores, tipo y categoría). Solo lo ves tú.\n\n1.3.2\n• Revolut: los traspasos a la cuenta remunerada ya no cuentan como gasto ni ingreso, y la remunerada se suma al saldo.\n• La nómina entra con la categoría Nómina.\n\n1.3.1\n• La pantalla ya no se queda gris al pasar de Calendario a Saldo.\n• Las cuentas de Revolut se actualizan al abrir Numa.\n\n1.3.0\n• Cuentas compartidas, con permiso para ver o para apuntar movimientos.\n• Notificaciones en la app y avisos en el móvil.\n• Conexión con Revolut: saldo y movimientos solos, solo lectura.",
+      "publicado": "2026-11-27T11:12:21+01:00",
       "oculta": false,
       "capturas": [
         "https://raw.githubusercontent.com/Yuk1Katsume/yukistore-catalog/main/capturas/numa-wallet/1.webp",
